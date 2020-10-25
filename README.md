@@ -34,7 +34,7 @@ a1 = g(W1*X1 + W2*X2 + W3*X3 + b1) = g(Z1)
 
 g(z) is an activation function. 
 
-3. BACK PROPAGATION:
+3.BACK PROPAGATION:
 
 COST FUNCTION- It is the difference between the predicted value('h' or 'layer_2') and the actual value('y'). It is a measure our how wrong our model is when juxtaposed with the actual ‘y’ value. Learning rate is a tuning parameter in an optimization algorithm that determines the step size at each iteration while moving toward a minimum of a loss function.
 
